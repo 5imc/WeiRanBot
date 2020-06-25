@@ -16,6 +16,8 @@
 
 `/hyp info ID` **查看Hypixel个人信息**
 
-`/hyp bw|bedwars ID` **查看Hypixel玩家Bedwars战绩**
+`/hyp bw|bedwars ID` **查看玩家Bedwars战绩**
 
-`/hyp sw|skywars ID` **查看Hypixel玩家Skywars战绩**
+`/hyp sw|skywars ID` **查看玩家Skywars战绩**
+
+`/hyp a|arcade miniwalls|mw|farmhunt|fh ID` **查看玩家迷你战墙|躲猫猫战绩**
