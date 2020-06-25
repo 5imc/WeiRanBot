@@ -8,7 +8,7 @@
 
 `/mojang` 为根指令:
 
-`/mojang nh/names ID` **查看历史ID**
+`/mojang nh|names ID` **查看历史ID**
 
 ### Hypixel
 
@@ -16,6 +16,6 @@
 
 `/hyp info ID` **查看Hypixel个人信息**
 
-`/hyp bw ID` **查看Hypixel玩家Bedwars战绩**
+`/hyp bw|bedwars ID` **查看Hypixel玩家Bedwars战绩**
 
-`/hyp sw ID` **查看Hypixel玩家Skywars战绩**
+`/hyp sw|skywars ID` **查看Hypixel玩家Skywars战绩**
