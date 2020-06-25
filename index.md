@@ -20,7 +20,7 @@
 
 `/hyp sw|skywars ID` **查看玩家Skywars战绩**
 
-# 街机游戏
+#### 街机游戏
 
 `/hyp a|arcade` 为根指令:
 
