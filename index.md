@@ -20,4 +20,4 @@
 
 `/hyp sw|skywars ID` **查看玩家Skywars战绩**
 
-`/hyp a|arcade miniwalls|mw|farmhunt|fh ID` **查看玩家迷你战墙/躲猫猫战绩**
+`/hyp a|arcade miniwalls|mw|farmhunt|fh ID` **查看玩家迷你战墙or躲猫猫战绩**
