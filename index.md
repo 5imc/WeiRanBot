@@ -17,3 +17,5 @@
 `/hyp info ID` **查看Hypixel个人信息**
 
 `/hyp bw ID` **查看Hypixel玩家Bedwars战绩**
+
+`/hyp sw ID` **查看Hypixel玩家Skywars战绩**
