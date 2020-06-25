@@ -20,7 +20,7 @@
 
 3. `/hyp sw|skywars ID` **查看玩家Skywars战绩**
 
-4. `/hyp a|arcade` 为前缀
+4. `/hyp a|arcade` 为前缀:
 
   1. _`farmhunt|fh ID`_ **查看玩家躲猫猫战绩**
 
