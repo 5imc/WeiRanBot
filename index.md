@@ -14,16 +14,14 @@
 
 `/hyp` 为根指令:
 
-`/hyp info ID` **查看Hypixel个人信息**
+1. `/hyp info ID` **查看Hypixel个人信息**
 
-`/hyp bw|bedwars ID` **查看玩家Bedwars战绩**
+2. `/hyp bw|bedwars ID` **查看玩家Bedwars战绩**
 
-`/hyp sw|skywars ID` **查看玩家Skywars战绩**
+3. `/hyp sw|skywars ID` **查看玩家Skywars战绩**
 
-###### 街机游戏
+4. `/hyp a|arcade` 为前缀
 
-  `/hyp a|arcade` 为根指令:
+  * `farmhunt|fh ID` **查看玩家躲猫猫战绩**
 
-  `farmhunt|fh ID` **查看玩家躲猫猫战绩**
-
-  `miniwalls|mw ID` **查看玩家迷你战墙战绩**
+  * `miniwalls|mw ID` **查看玩家迷你战墙战绩**
