@@ -28,4 +28,4 @@
    
 5. `mw|megawalls ID` **查看玩家Megawalls战绩**
 
-   _`{Profession}`_ **查看玩家指定职业信息** _On Dev_
+   _`{Profession}(不支持缩写)`_ **查看玩家指定职业信息**
