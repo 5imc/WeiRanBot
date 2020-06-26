@@ -25,3 +25,5 @@
    _`farmhunt|fh ID`_ **查看玩家躲猫猫战绩**
 
    _`miniwalls|mw ID`_ **查看玩家迷你战墙战绩**
+   
+5. `mw|megawalls ID` **查看玩家Megawalls战绩**
