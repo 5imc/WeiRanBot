@@ -27,3 +27,5 @@
    _`miniwalls|mw ID`_ **查看玩家迷你战墙战绩**
    
 5. `mw|megawalls ID` **查看玩家Megawalls战绩**
+
+   _`{Profession}`_ **查看玩家指定职业信息** _On Dev_
