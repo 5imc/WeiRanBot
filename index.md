@@ -8,19 +8,19 @@
 
 `/mojang` 为根指令:
 
-1. `/mojang nh|names ID` **查看历史ID**
+1. `nh|names ID` **查看历史ID**
 
 ### Hypixel
 
 `/hyp` 为根指令:
 
-1. `/hyp info ID` **查看Hypixel个人信息**
+1. `info ID` **查看Hypixel个人信息**
 
-2. `/hyp bw|bedwars ID` **查看玩家Bedwars战绩**
+2. `bw|bedwars ID` **查看玩家Bedwars战绩**
 
-3. `/hyp sw|skywars ID` **查看玩家Skywars战绩**
+3. `sw|skywars ID` **查看玩家Skywars战绩**
 
-4. `/hyp a|arcade` 为前缀:
+4. `a|arcade` 为前缀:
 
    _`farmhunt|fh ID`_ **查看玩家躲猫猫战绩**
 
