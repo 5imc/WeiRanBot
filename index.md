@@ -1,4 +1,4 @@
-## 欢迎使用WeiRanBot Beta v1.1
+## 欢迎使用WeiRanBot Beta v1.2
 
 当前机器人仍处于**Dev**阶段
 
@@ -33,3 +33,5 @@
 5. `mw|megawalls ID` **查看玩家Megawalls战绩**
 
    _`{Profession}(不支持缩写)`_ **查看玩家指定职业信息**
+   
+6. `uhc ID` **查看玩家UHC战绩**
