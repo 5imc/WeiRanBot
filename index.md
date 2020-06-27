@@ -38,10 +38,12 @@
 
    _`farmhunt|fh ID`_ **查看玩家躲猫猫战绩**
 
-   _`miniwalls|mw ID`_ **查看玩家迷你战墙战绩**
+   _`miniwalls|mw ID`_ **查看玩家迷你战墙战绩**  
+   
+   _`hypsays|simonsays`_ **查看玩家你说我做战绩**
    
 1. `mw|megawalls ID` **查看玩家Megawalls战绩**
 
    _`{Profession}(不支持缩写)`_ **查看玩家指定职业信息**
    
-6. `uhc ID` **查看玩家UHC战绩**
+1. `uhc ID` **查看玩家UHC战绩**
