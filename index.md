@@ -1,4 +1,4 @@
-## 欢迎使用WeiRanBot Beta v1.0
+## 欢迎使用WeiRanBot Beta v1.1
 
 当前机器人仍处于**Dev**阶段
 
