@@ -10,6 +10,10 @@
 
 1. `nh|names ID` **查看历史ID**
 
+2. `mc|minecraft` **查看Minecraft销售统计**
+
+3. `dungeon|minecraft_dungeon` **查看Minecraft Dungeon销售统计**
+
 ### Hypixel
 
 `/hyp` 为根指令:
