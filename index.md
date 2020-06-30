@@ -47,3 +47,9 @@
    _`{Profession}(不支持缩写)`_ **查看玩家指定职业信息**
    
 1. `uhc ID` **查看玩家UHC战绩**
+
+1. `sb|skyblock ID` **查看玩家SkyBlock状态**
+
+   _`bound index`_ **绑定存档**
+   
+   _`list`_ **查看存档列表**
